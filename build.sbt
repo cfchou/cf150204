@@ -1,7 +1,7 @@
 import sbt._
 import Keys._
 
-name := "cf0204"
+name := "cf150204"
 
 version := "1.0"
 
